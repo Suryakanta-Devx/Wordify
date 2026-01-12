@@ -1,0 +1,25 @@
+{
+  "paper": {
+    "word": "paper",
+    "phonetic": "/ˈpeɪpər/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Material manufactured in thin sheets from the pulp of wood or other fibrous substances, used for writing, drawing, or printing on, or as wrapping material.",
+          "example": "Write it down on paper."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "paper",
+      "plural": "papers"
+    },
+    "synonyms": ["document", "sheet", "newspaper", "article"],
+    "antonyms": [],
+    "usage_examples": [
+      "I read the morning paper.",
+      "The printer is out of paper."
+    ]
+  }
+}

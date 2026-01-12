@@ -1,0 +1,26 @@
+{
+  "unfair": {
+    "word": "unfair",
+    "phonetic": "/ʌnˈfɛər/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Not based on or behaving according to the principles of equality and justice.",
+          "example": "The referee's decision was unfair."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "unfair",
+      "comparative": "more unfair",
+      "superlative": "most unfair"
+    },
+    "synonyms": ["unjust", "biased", "partial", "inequitable"],
+    "antonyms": ["fair", "just", "equal"],
+    "usage_examples": [
+      "Life is unfair.",
+      "Unfair advantage."
+    ]
+  }
+}

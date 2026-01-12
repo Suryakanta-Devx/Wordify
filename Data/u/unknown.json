@@ -1,0 +1,32 @@
+{
+  "unknown": {
+    "word": "unknown",
+    "phonetic": "/ˌʌnˈnoʊn/",
+    "part_of_speech": ["adjective", "noun"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Not known or familiar.",
+          "example": "An unknown artist."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "An unknown person or thing.",
+          "example": "Fear of the unknown."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "unknown",
+      "comparative": "more unknown",
+      "superlative": "most unknown"
+    },
+    "synonyms": ["unfamiliar", "unidentified", "stranger", "obscure"],
+    "antonyms": ["known", "famous", "familiar"],
+    "usage_examples": [
+      "Destination unknown.",
+      "The cause is still unknown."
+    ]
+  }
+}

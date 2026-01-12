@@ -1,0 +1,25 @@
+{
+  "parent": {
+    "word": "parent",
+    "phonetic": "/ˈpɛərənt/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A father or mother.",
+          "example": "Her parents live in Spain."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "parent",
+      "plural": "parents"
+    },
+    "synonyms": ["mother", "father", "guardian", "progenitor"],
+    "antonyms": ["child", "offspring"],
+    "usage_examples": [
+      "Single parent family.",
+      "Parent-teacher meeting."
+    ]
+  }
+}

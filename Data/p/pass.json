@@ -1,0 +1,42 @@
+{
+  "pass": {
+    "word": "pass",
+    "phonetic": "/pæs/",
+    "part_of_speech": ["verb", "noun"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To move or cause to move in a specified direction.",
+          "example": "The car passed the truck."
+        },
+        {
+          "definition": "To be successful in a test or course.",
+          "example": "She passed the exam."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "An act of passing.",
+          "example": "He made a pass at the ball."
+        },
+        {
+          "definition": "A card, ticket, or permit giving authorization to enter a place.",
+          "example": "Boarding pass."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "pass",
+      "past": "passed",
+      "past_participle": "passed",
+      "present_participle": "passing",
+      "third_person": "passes"
+    },
+    "synonyms": ["go", "move", "succeed", "transfer"],
+    "antonyms": ["fail", "stop", "halt"],
+    "usage_examples": [
+      "Pass the salt, please.",
+      "Time passes quickly."
+    ]
+  }
+}

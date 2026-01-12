@@ -1,0 +1,30 @@
+{
+  "upper": {
+    "word": "upper",
+    "phonetic": "/ˈʌpər/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Situated above another part.",
+          "example": "The upper lip."
+        },
+        {
+          "definition": "Higher in position or status.",
+          "example": "The upper class."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "upper",
+      "comparative": "n/a",
+      "superlative": "uppermost"
+    },
+    "synonyms": ["higher", "superior", "top"],
+    "antonyms": ["lower", "bottom", "inferior"],
+    "usage_examples": [
+      "Upper hand.",
+      "Upper case letters."
+    ]
+  }
+}

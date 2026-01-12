@@ -1,0 +1,29 @@
+{
+  "period": {
+    "word": "period",
+    "phonetic": "/ˈpɪəriəd/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A length or portion of time.",
+          "example": "A period of three months."
+        },
+        {
+          "definition": "A punctuation mark (.) used at the end of a sentence.",
+          "example": "Put a period at the end."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "period",
+      "plural": "periods"
+    },
+    "synonyms": ["time", "duration", "era", "full stop"],
+    "antonyms": [],
+    "usage_examples": [
+      "The Jurassic period.",
+      "First period is math."
+    ]
+  }
+}

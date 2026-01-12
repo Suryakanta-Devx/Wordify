@@ -1,0 +1,29 @@
+{
+  "glass": {
+    "word": "glass",
+    "phonetic": "/ɡlæs/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A hard, brittle substance, typically transparent or translucent, used for windows, bottles, etc.",
+          "example": "The window is made of glass."
+        },
+        {
+          "definition": "A drinking vessel made of glass.",
+          "example": "Would you like a glass of water?"
+        }
+      ]
+    },
+    "forms": {
+      "singular": "glass",
+      "plural": "glasses"
+    },
+    "synonyms": ["tumbler", "pane", "goblet", "spectacles"],
+    "antonyms": [],
+    "usage_examples": [
+      "Handle with care, it's glass.",
+      "He wears reading glasses."
+    ]
+  }
+}

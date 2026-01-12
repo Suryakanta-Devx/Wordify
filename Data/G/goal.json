@@ -1,0 +1,29 @@
+{
+  "goal": {
+    "word": "goal",
+    "phonetic": "/ɡoʊl/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The object of a person's ambition or effort; an aim or desired result.",
+          "example": "His main goal is to become a pilot."
+        },
+        {
+          "definition": "A pair of posts linked by a crossbar and often a net, forming a space into or over which the ball has to be sent in order to score.",
+          "example": "The striker kicked the ball into the goal."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "goal",
+      "plural": "goals"
+    },
+    "synonyms": ["aim", "objective", "target", "purpose"],
+    "antonyms": [],
+    "usage_examples": [
+      "She set a goal to read 50 books this year.",
+      "The team scored a goal in the final minute."
+    ]
+  }
+}

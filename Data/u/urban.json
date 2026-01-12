@@ -1,0 +1,26 @@
+{
+  "urban": {
+    "word": "urban",
+    "phonetic": "/ˈɜːrbən/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "In, relating to, or characteristic of a town or city.",
+          "example": "Urban development."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "urban",
+      "comparative": "more urban",
+      "superlative": "most urban"
+    },
+    "synonyms": ["city", "metropolitan", "municipal", "civic"],
+    "antonyms": ["rural", "country"],
+    "usage_examples": [
+      "Urban legends.",
+      "Urban planning."
+    ]
+  }
+}

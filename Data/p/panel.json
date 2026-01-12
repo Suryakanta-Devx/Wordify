@@ -1,0 +1,29 @@
+{
+  "panel": {
+    "word": "panel",
+    "phonetic": "/ˈpænl/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A distinct section of a surface, such as a door or wall.",
+          "example": "The control panel has many buttons."
+        },
+        {
+          "definition": "A small group of people brought together to discuss, investigate, or decide on a particular matter.",
+          "example": "A panel of experts."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "panel",
+      "plural": "panels"
+    },
+    "synonyms": ["board", "committee", "section", "plate"],
+    "antonyms": [],
+    "usage_examples": [
+      "Solar panels generate electricity.",
+      "The jury panel was selected."
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "giant": {
+    "word": "giant",
+    "phonetic": "/ˈdʒaɪənt/",
+    "part_of_speech": ["noun", "adjective"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "An imaginary being of superhuman size.",
+          "example": "The story is about a giant who lived in the clouds."
+        }
+      ],
+      "adjective": [
+        {
+          "definition": "Of very great size or force; gigantic.",
+          "example": "A giant wave crashed onto the shore."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "giant",
+      "plural": "giants"
+    },
+    "synonyms": ["colossus", "titan", "huge", "enormous"],
+    "antonyms": ["dwarf", "tiny", "miniature"],
+    "usage_examples": [
+      "He is a giant in the tech industry.",
+      "They made a giant leap forward."
+    ]
+  }
+}

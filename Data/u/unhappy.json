@@ -1,0 +1,26 @@
+{
+  "unhappy": {
+    "word": "unhappy",
+    "phonetic": "/ʌnˈhæpi/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Not happy; sad or displeased.",
+          "example": "She looked very unhappy."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "unhappy",
+      "comparative": "unhappier",
+      "superlative": "unhappiest"
+    },
+    "synonyms": ["sad", "miserable", "sorrowful", "depressed"],
+    "antonyms": ["happy", "cheerful", "glad"],
+    "usage_examples": [
+      "An unhappy customer.",
+      "An unhappy ending."
+    ]
+  }
+}

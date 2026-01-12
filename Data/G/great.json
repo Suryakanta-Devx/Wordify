@@ -1,0 +1,30 @@
+{
+  "great": {
+    "word": "great",
+    "phonetic": "/ɡreɪt/",
+    "part_of_speech": ["adjective", "noun"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Of an extent, amount, or intensity considerably above the normal or average.",
+          "example": "The storm caused great damage."
+        },
+        {
+          "definition": "Of ability, quality, or eminence considerably above the normal or average.",
+          "example": "He was a great writer."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "great",
+      "comparative": "greater",
+      "superlative": "greatest"
+    },
+    "synonyms": ["large", "huge", "distinguished", "excellent"],
+    "antonyms": ["small", "little", "minor", "terrible"],
+    "usage_examples": [
+      "Alexander the Great was a king.",
+      "That's a great idea!"
+    ]
+  }
+}

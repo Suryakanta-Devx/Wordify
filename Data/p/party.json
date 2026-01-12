@@ -1,0 +1,38 @@
+{
+  "party": {
+    "word": "party",
+    "phonetic": "/ˈpɑːrti/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A social gathering of invited guests.",
+          "example": "We are having a birthday party."
+        },
+        {
+          "definition": "A formally constituted political group.",
+          "example": "The political party won the election."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To enjoy oneself at a party or other lively gathering.",
+          "example": "They partied all night."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "party",
+      "past": "partied",
+      "past_participle": "partied",
+      "present_participle": "partying",
+      "third_person": "parties"
+    },
+    "synonyms": ["celebration", "gathering", "bash", "faction"],
+    "antonyms": [],
+    "usage_examples": [
+      "Party animal.",
+      "Third party."
+    ]
+  }
+}

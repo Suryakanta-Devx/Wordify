@@ -1,0 +1,25 @@
+{
+  "user": {
+    "word": "user",
+    "phonetic": "/ˈjuːzər/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A person who uses or operates something, especially a computer or other machine.",
+          "example": "Enter your user name."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "user",
+      "plural": "users"
+    },
+    "synonyms": ["customer", "consumer", "operator", "client"],
+    "antonyms": [],
+    "usage_examples": [
+      "User interface.",
+      "User-friendly."
+    ]
+  }
+}

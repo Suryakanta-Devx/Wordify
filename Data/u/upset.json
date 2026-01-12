@@ -1,0 +1,40 @@
+{
+  "upset": {
+    "word": "upset",
+    "phonetic": "/ʌpˈsɛt/",
+    "part_of_speech": ["verb", "adjective", "noun"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To make someone unhappy, disappointed, or worried.",
+          "example": "Don't upset your mother."
+        }
+      ],
+      "adjective": [
+        {
+          "definition": "Unhappy, disappointed, or worried.",
+          "example": "He was very upset about the news."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "An unexpected result or situation.",
+          "example": "The team caused a major upset."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "upset",
+      "past": "upset",
+      "past_participle": "upset",
+      "present_participle": "upsetting",
+      "third_person": "upsets"
+    },
+    "synonyms": ["distress", "agitate", "disturb", "trouble"],
+    "antonyms": ["calm", "comfort", "please"],
+    "usage_examples": [
+      "Stomach upset.",
+      "Don't get upset."
+    ]
+  }
+}

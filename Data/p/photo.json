@@ -1,0 +1,34 @@
+{
+  "photo": {
+    "word": "photo",
+    "phonetic": "/ˈfoʊtoʊ/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A photograph.",
+          "example": "Take a photo of us."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To take a photograph of.",
+          "example": "They photoed the event."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "photo",
+      "past": "photoed",
+      "past_participle": "photoed",
+      "present_participle": "photoing",
+      "third_person": "photos"
+    },
+    "synonyms": ["picture", "snapshot", "image", "pic"],
+    "antonyms": [],
+    "usage_examples": [
+      "Photo album.",
+      "Photo finish."
+    ]
+  }
+}

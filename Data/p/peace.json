@@ -1,0 +1,29 @@
+{
+  "peace": {
+    "word": "peace",
+    "phonetic": "/piːs/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Freedom from disturbance; tranquility.",
+          "example": "Peace and quiet."
+        },
+        {
+          "definition": "A state or period in which there is no war or a war has ended.",
+          "example": "They signed a peace treaty."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "peace",
+      "plural": "peaces"
+    },
+    "synonyms": ["tranquility", "calm", "harmony", "truce"],
+    "antonyms": ["war", "conflict", "noise", "turmoil"],
+    "usage_examples": [
+      "Rest in peace.",
+      "Make peace not war."
+    ]
+  }
+}

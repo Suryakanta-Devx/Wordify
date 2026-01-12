@@ -1,0 +1,34 @@
+{
+  "pan": {
+    "word": "pan",
+    "phonetic": "/pæn/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A metal container used for cooking food.",
+          "example": "Fry the eggs in a pan."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To criticize severely.",
+          "example": "The movie was panned by critics."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "pan",
+      "past": "panned",
+      "past_participle": "panned",
+      "present_participle": "panning",
+      "third_person": "pans"
+    },
+    "synonyms": ["skillet", "pot", "criticize", "slam"],
+    "antonyms": ["praise"],
+    "usage_examples": [
+      "Out of the frying pan into the fire.",
+      "Camera panned to the left."
+    ]
+  }
+}

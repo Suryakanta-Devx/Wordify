@@ -1,0 +1,26 @@
+{
+  "ugly": {
+    "word": "ugly",
+    "phonetic": "/ˈʌɡli/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Unpleasant or repulsive, especially in appearance.",
+          "example": "The witch had an ugly face."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "ugly",
+      "comparative": "uglier",
+      "superlative": "ugliest"
+    },
+    "synonyms": ["unattractive", "hideous", "unsightly", "plain"],
+    "antonyms": ["beautiful", "attractive", "pretty"],
+    "usage_examples": [
+      "It was an ugly situation.",
+      "The duckling grew up to be beautiful."
+    ]
+  }
+}

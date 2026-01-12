@@ -1,0 +1,34 @@
+{
+  "pet": {
+    "word": "pet",
+    "phonetic": "/pɛt/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A domestic or tamed animal kept for companionship or pleasure.",
+          "example": "Do you have any pets?"
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To stroke or pat an animal affectionately.",
+          "example": "She petted the dog."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "pet",
+      "past": "petted",
+      "past_participle": "petted",
+      "present_participle": "petting",
+      "third_person": "pets"
+    },
+    "synonyms": ["animal", "companion", "stroke", "caress"],
+    "antonyms": [],
+    "usage_examples": [
+      "Teacher's pet.",
+      "Pet food."
+    ]
+  }
+}

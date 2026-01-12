@@ -1,0 +1,25 @@
+{
+  "glove": {
+    "word": "glove",
+    "phonetic": "/ɡlʌv/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A covering for the hand having separate sections for each finger and the thumb.",
+          "example": "Wear gloves to keep your hands warm."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "glove",
+      "plural": "gloves"
+    },
+    "synonyms": ["mitten", "gauntlet", "handwear"],
+    "antonyms": [],
+    "usage_examples": [
+      "The glove fits perfectly.",
+      "Boxing gloves are padded."
+    ]
+  }
+}

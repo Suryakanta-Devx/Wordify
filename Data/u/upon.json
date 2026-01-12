@@ -1,0 +1,29 @@
+{
+  "upon": {
+    "word": "upon",
+    "phonetic": "/əˈpɒn/",
+    "part_of_speech": ["preposition"],
+    "meanings": {
+      "preposition": [
+        {
+          "definition": "More formal term for 'on'.",
+          "example": "Once upon a time."
+        },
+        {
+          "definition": "Imminent or just around the corner.",
+          "example": "Christmas is almost upon us."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "n/a",
+      "plural": "n/a"
+    },
+    "synonyms": ["on", "onto"],
+    "antonyms": [],
+    "usage_examples": [
+      "He placed the book upon the table.",
+      "Row upon row of seats."
+    ]
+  }
+}

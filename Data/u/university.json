@@ -1,0 +1,25 @@
+{
+  "university": {
+    "word": "university",
+    "phonetic": "/ˌjuːnɪˈvɜːrsəti/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "An educational institution designed for instruction, examination, or both, of students in many branches of advanced learning.",
+          "example": "She applied to university."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "university",
+      "plural": "universities"
+    },
+    "synonyms": ["college", "academy", "institution", "campus"],
+    "antonyms": [],
+    "usage_examples": [
+      "Harvard University.",
+      "University degree."
+    ]
+  }
+}

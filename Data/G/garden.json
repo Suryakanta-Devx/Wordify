@@ -1,0 +1,34 @@
+{
+  "garden": {
+    "word": "garden",
+    "phonetic": "/ˈɡɑːrdn/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A piece of ground, often near a house, used for growing flowers, fruit, or vegetables.",
+          "example": "She planted roses in her garden."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To cultivate or work in a garden.",
+          "example": "He likes to garden on weekends."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "garden",
+      "past": "gardened",
+      "past_participle": "gardened",
+      "present_participle": "gardening",
+      "third_person": "gardens"
+    },
+    "synonyms": ["yard", "plot", "patch", "cultivate"],
+    "antonyms": [],
+    "usage_examples": [
+      "The vegetable garden is flourishing.",
+      "Botanical gardens are beautiful in spring."
+    ]
+  }
+}

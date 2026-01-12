@@ -1,0 +1,34 @@
+{
+  "pencil": {
+    "word": "pencil",
+    "phonetic": "/ˈpɛnsl/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "An instrument for writing or drawing, consisting of a thin stick of graphite or a similar substance enclosed in a long thin piece of wood or fixed in a metal or plastic case.",
+          "example": "Sharpen your pencil."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To write, draw, or color with a pencil.",
+          "example": "Pencil in the date."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "pencil",
+      "past": "penciled",
+      "past_participle": "penciled",
+      "present_participle": "penciling",
+      "third_person": "pencils"
+    },
+    "synonyms": ["writing implement", "draw", "sketch"],
+    "antonyms": [],
+    "usage_examples": [
+      "A colored pencil.",
+      "Pencil skirt."
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "pain": {
+    "word": "pain",
+    "phonetic": "/peɪn/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Physical suffering or discomfort caused by illness or injury.",
+          "example": "She felt a sharp pain in her leg."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To cause mental or physical pain to.",
+          "example": "It pains me to see you so sad."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "pain",
+      "past": "pained",
+      "past_participle": "pained",
+      "present_participle": "paining",
+      "third_person": "pains"
+    },
+    "synonyms": ["suffering", "agony", "ache", "hurt"],
+    "antonyms": ["pleasure", "comfort", "relief"],
+    "usage_examples": [
+      "No pain, no gain.",
+      "He is in a lot of pain."
+    ]
+  }
+}

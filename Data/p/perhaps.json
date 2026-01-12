@@ -1,0 +1,25 @@
+{
+  "perhaps": {
+    "word": "perhaps",
+    "phonetic": "/pərˈhæps/",
+    "part_of_speech": ["adverb"],
+    "meanings": {
+      "adverb": [
+        {
+          "definition": "Used to express uncertainty or possibility.",
+          "example": "Perhaps he missed the bus."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "n/a",
+      "plural": "n/a"
+    },
+    "synonyms": ["maybe", "possibly", "conceivably"],
+    "antonyms": ["definitely", "certainly"],
+    "usage_examples": [
+      "Perhaps we should wait.",
+      "It will take a week, perhaps longer."
+    ]
+  }
+}

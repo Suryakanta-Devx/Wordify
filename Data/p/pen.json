@@ -1,0 +1,38 @@
+{
+  "pen": {
+    "word": "pen",
+    "phonetic": "/pɛn/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "An instrument for writing or drawing with ink.",
+          "example": "Sign with a black pen."
+        },
+        {
+          "definition": "A small enclosure for farm animals.",
+          "example": "A sheep pen."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To write or compose.",
+          "example": "He penned a letter."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "pen",
+      "past": "penned",
+      "past_participle": "penned",
+      "present_participle": "penning",
+      "third_person": "pens"
+    },
+    "synonyms": ["biro", "marker", "enclosure", "write"],
+    "antonyms": [],
+    "usage_examples": [
+      "The pen is mightier than the sword.",
+      "Put the pigs in the pen."
+    ]
+  }
+}

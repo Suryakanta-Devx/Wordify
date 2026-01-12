@@ -1,0 +1,32 @@
+{
+  "good": {
+    "word": "good",
+    "phonetic": "/ɡʊd/",
+    "part_of_speech": ["adjective", "noun"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "To be desired or approved of; having the qualities required for a particular role.",
+          "example": "The food at this restaurant is very good."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "That which is morally right; righteousness.",
+          "example": "We should strive to do good in the world."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "good",
+      "comparative": "better",
+      "superlative": "best"
+    },
+    "synonyms": ["excellent", "fine", "moral", "beneficial"],
+    "antonyms": ["bad", "evil", "poor"],
+    "usage_examples": [
+      "Have a good day!",
+      "It is for your own good."
+    ]
+  }
+}

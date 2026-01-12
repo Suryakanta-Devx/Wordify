@@ -1,0 +1,25 @@
+{
+  "government": {
+    "word": "government",
+    "phonetic": "/ˈɡʌvərnmənt/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The governing body of a nation, state, or community.",
+          "example": "The government announced new tax laws."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "government",
+      "plural": "governments"
+    },
+    "synonyms": ["administration", "authority", "regime", "leadership"],
+    "antonyms": ["anarchy"],
+    "usage_examples": [
+      "He works for the local government.",
+      "Democracy is a form of government."
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "ghost": {
+    "word": "ghost",
+    "phonetic": "/ɡoʊst/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "An apparition of a dead person that is believed to appear to the living.",
+          "example": "Do you believe in ghosts?"
+        }
+      ]
+    },
+    "forms": {
+      "singular": "ghost",
+      "plural": "ghosts"
+    },
+    "synonyms": ["spirit", "phantom", "specter", "apparition"],
+    "antonyms": [],
+    "usage_examples": [
+      "The village is a ghost town now.",
+      "She didn't stand a ghost of a chance."
+    ]
+  }
+}

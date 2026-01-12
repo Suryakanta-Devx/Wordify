@@ -1,0 +1,25 @@
+{
+  "uncle": {
+    "word": "uncle",
+    "phonetic": "/ˈʌŋkl/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The brother of one's father or mother or the husband of one's aunt.",
+          "example": "My uncle lives in Canada."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "uncle",
+      "plural": "uncles"
+    },
+    "synonyms": ["relative", "kinsman"],
+    "antonyms": ["aunt", "nephew", "niece"],
+    "usage_examples": [
+      "Uncle Sam wants you.",
+      "He is a favorite uncle."
+    ]
+  }
+}

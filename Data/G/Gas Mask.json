@@ -1,0 +1,29 @@
+{
+  "gas mask": {
+    "word": "gas mask",
+    "phonetic": "/ˌɡæs ˈmæsk/",
+    "part_of_speech": ["noun"],
+
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A protective mask used to cover the face and protect the wearer from inhaling toxic gases or pollutants.",
+          "example": "The soldiers put on their gas masks during the drill."
+        }
+      ]
+    },
+
+    "forms": {
+      "singular": "gas mask",
+      "plural": "gas masks"
+    },
+
+    "synonyms": ["respirator", "protective mask", "breathing apparatus"],
+    "antonyms": [],
+
+    "usage_examples": [
+      "He found an old gas mask from the war in the attic.",
+      "Firefighters wear a specific type of gas mask to breathe safely in smoke."
+    ]
+  }
+}

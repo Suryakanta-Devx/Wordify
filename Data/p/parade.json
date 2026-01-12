@@ -1,0 +1,34 @@
+{
+  "parade": {
+    "word": "parade",
+    "phonetic": "/pəˈreɪd/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A public procession, especially one celebrating a special day or event.",
+          "example": "We watched the Thanksgiving parade."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To walk or march together in public.",
+          "example": "The soldiers paraded through the street."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "parade",
+      "past": "paraded",
+      "past_participle": "paraded",
+      "present_participle": "parading",
+      "third_person": "parades"
+    },
+    "synonyms": ["procession", "march", "display", "spectacle"],
+    "antonyms": [],
+    "usage_examples": [
+      "Don't rain on my parade.",
+      "A fashion parade."
+    ]
+  }
+}

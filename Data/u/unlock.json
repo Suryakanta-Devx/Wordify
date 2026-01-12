@@ -1,0 +1,32 @@
+{
+  "unlock": {
+    "word": "unlock",
+    "phonetic": "/ʌnˈlɒk/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To undo the lock of something, typically with a key or password.",
+          "example": "She unlocked the door."
+        },
+        {
+          "definition": "To set free or release.",
+          "example": "Unlock your potential."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "unlock",
+      "past": "unlocked",
+      "past_participle": "unlocked",
+      "present_participle": "unlocking",
+      "third_person": "unlocks"
+    },
+    "synonyms": ["open", "unbolt", "release", "access"],
+    "antonyms": ["lock", "seal"],
+    "usage_examples": [
+      "Unlock the phone.",
+      "The mystery was finally unlocked."
+    ]
+  }
+}

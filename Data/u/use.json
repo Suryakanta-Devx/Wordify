@@ -1,0 +1,34 @@
+{
+  "use": {
+    "word": "use",
+    "phonetic": "/juːz/",
+    "part_of_speech": ["verb", "noun"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result.",
+          "example": "Use a hammer to hit the nail."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "The action of using something or the state of being used.",
+          "example": "The machine is in use."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "use",
+      "past": "used",
+      "past_participle": "used",
+      "present_participle": "using",
+      "third_person": "uses"
+    },
+    "synonyms": ["utilize", "employ", "operate", "application"],
+    "antonyms": ["ignore", "neglect", "misuse"],
+    "usage_examples": [
+      "Use your imagination.",
+      "What is the use of this?"
+    ]
+  }
+}

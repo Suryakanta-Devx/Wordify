@@ -1,0 +1,25 @@
+{
+  "unless": {
+    "word": "unless",
+    "phonetic": "/ənˈlɛs/",
+    "part_of_speech": ["conjunction"],
+    "meanings": {
+      "conjunction": [
+        {
+          "definition": "Except if.",
+          "example": "I won't go unless you go."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "n/a",
+      "plural": "n/a"
+    },
+    "synonyms": ["if not", "except"],
+    "antonyms": [],
+    "usage_examples": [
+      "Unless I am mistaken.",
+      "Don't call unless it is urgent."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "urgent": {
+    "word": "urgent",
+    "phonetic": "/ˈɜːrdʒənt/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Requiring immediate action or attention.",
+          "example": "An urgent message."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "urgent",
+      "comparative": "more urgent",
+      "superlative": "most urgent"
+    },
+    "synonyms": ["pressing", "critical", "crucial", "immediate"],
+    "antonyms": ["unimportant", "trivial"],
+    "usage_examples": [
+      "In need of urgent care.",
+      "Urgent business."
+    ]
+  }
+}

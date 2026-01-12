@@ -1,0 +1,29 @@
+{
+  "gate": {
+    "word": "gate",
+    "phonetic": "/ɡeɪt/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A hinged barrier used to close an opening in a wall, fence, or hedge.",
+          "example": "Please close the gate behind you."
+        },
+        {
+          "definition": "An exit or entry point at an airport.",
+          "example": "Flight 202 is boarding at Gate 5."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "gate",
+      "plural": "gates"
+    },
+    "synonyms": ["barrier", "entrance", "doorway", "portal"],
+    "antonyms": [],
+    "usage_examples": [
+      "The golden gates opened wide.",
+      "He jumped over the garden gate."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unique": {
+    "word": "unique",
+    "phonetic": "/juˈniːk/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Being the only one of its kind; unlike anything else.",
+          "example": "Each fingerprint is unique."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "unique",
+      "comparative": "more unique",
+      "superlative": "most unique"
+    },
+    "synonyms": ["distinctive", "individual", "special", "singular"],
+    "antonyms": ["common", "ordinary", "standard"],
+    "usage_examples": [
+      "A unique opportunity.",
+      "The style is unique to this region."
+    ]
+  }
+}

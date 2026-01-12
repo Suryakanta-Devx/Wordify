@@ -1,0 +1,32 @@
+{
+  "undo": {
+    "word": "undo",
+    "phonetic": "/ʌnˈduː/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To cancel or reverse the effects or results of (a previous action).",
+          "example": "You cannot undo the past."
+        },
+        {
+          "definition": "To unfasten, untie, or loosen.",
+          "example": "He undid the top button of his shirt."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "undo",
+      "past": "undid",
+      "past_participle": "undone",
+      "present_participle": "undoing",
+      "third_person": "undoes"
+    },
+    "synonyms": ["reverse", "cancel", "open", "unfasten"],
+    "antonyms": ["do", "fasten", "button"],
+    "usage_examples": [
+      "Click here to undo your last edit.",
+      "My shoelaces came undone."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "palm": {
+    "word": "palm",
+    "phonetic": "/pɑːm/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The inner surface of the hand between the wrist and fingers.",
+          "example": "He held the coin in his palm."
+        },
+        {
+          "definition": "An unbranched evergreen tree with a crown of long feathered or fan-shaped leaves.",
+          "example": "Coconut palms grow on the beach."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "palm",
+      "plural": "palms"
+    },
+    "synonyms": ["hand", "tree"],
+    "antonyms": [],
+    "usage_examples": [
+      "Read my palm.",
+      "Palm oil is used in cooking."
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "gather": {
+    "word": "gather",
+    "phonetic": "/ˈɡæðər/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To come together; to assemble or accumulate.",
+          "example": "The dark clouds began to gather."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "gather",
+      "past": "gathered",
+      "past_participle": "gathered",
+      "present_participle": "gathering",
+      "third_person": "gathers"
+    },
+    "synonyms": ["collect", "assemble", "congregate", "amass"],
+    "antonyms": ["scatter", "disperse", "distribute"],
+    "usage_examples": [
+      "Please gather your things and leave.",
+      "We gathered wood for the fire."
+    ]
+  }
+}

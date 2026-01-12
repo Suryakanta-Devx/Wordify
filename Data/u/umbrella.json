@@ -1,0 +1,25 @@
+{
+  "umbrella": {
+    "word": "umbrella",
+    "phonetic": "/ʌmˈbrɛlə/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A folding canopy supported by wooden or metal ribs, used as protection against rain or sun.",
+          "example": "Take an umbrella, it's raining."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "umbrella",
+      "plural": "umbrellas"
+    },
+    "synonyms": ["brolly", "parasol", "canopy", "shield"],
+    "antonyms": [],
+    "usage_examples": [
+      "Under the umbrella of the organization.",
+      "A beach umbrella."
+    ]
+  }
+}

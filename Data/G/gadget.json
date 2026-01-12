@@ -1,0 +1,25 @@
+{
+  "gadget": {
+    "word": "gadget",
+    "phonetic": "/ˈɡædʒɪt/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A small mechanical or electronic device or tool, especially an ingenious or novel one.",
+          "example": "He loves buying the latest kitchen gadgets."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "gadget",
+      "plural": "gadgets"
+    },
+    "synonyms": ["device", "appliance", "apparatus", "instrument"],
+    "antonyms": [],
+    "usage_examples": [
+      "This new gadget helps you find your keys.",
+      "The car is full of high-tech gadgets."
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "panic": {
+    "word": "panic",
+    "phonetic": "/ˈpænɪk/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Sudden uncontrollable fear or anxiety, often causing wildly unthinking behavior.",
+          "example": "Panic spread through the crowd."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To feel or cause to feel panic.",
+          "example": "Don't panic."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "panic",
+      "past": "panicked",
+      "past_participle": "panicked",
+      "present_participle": "panicking",
+      "third_person": "panics"
+    },
+    "synonyms": ["alarm", "fear", "terror", "fright"],
+    "antonyms": ["calm", "confidence", "peace"],
+    "usage_examples": [
+      "He hit the panic button.",
+      "There is no need to panic."
+    ]
+  }
+}

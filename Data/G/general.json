@@ -1,0 +1,32 @@
+{
+  "general": {
+    "word": "general",
+    "phonetic": "/ˈdʒɛnərəl/",
+    "part_of_speech": ["adjective", "noun"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Affecting or concerning all or most people, places, or things; widespread.",
+          "example": "There is a general consensus on the issue."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "A commander of an army, or an army officer of very high rank.",
+          "example": "The general ordered the troops to advance."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "general",
+      "comparative": "more general",
+      "superlative": "most general"
+    },
+    "synonyms": ["universal", "broad", "common", "commander"],
+    "antonyms": ["specific", "particular", "specialized"],
+    "usage_examples": [
+      "In general, I agree with you.",
+      "It was a general meeting for all staff."
+    ]
+  }
+}

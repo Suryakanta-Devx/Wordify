@@ -1,0 +1,29 @@
+{
+  "pattern": {
+    "word": "pattern",
+    "phonetic": "/ˈpætərn/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A repeated decorative design.",
+          "example": "A shirt with a floral pattern."
+        },
+        {
+          "definition": "A regular and intelligible form or sequence discernible in the way in which something happens or is done.",
+          "example": "Sleep pattern."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "pattern",
+      "plural": "patterns"
+    },
+    "synonyms": ["design", "motif", "arrangement", "model"],
+    "antonyms": ["chaos", "disorder"],
+    "usage_examples": [
+      "The pattern repeats every yard.",
+      "Follow the pattern."
+    ]
+  }
+}

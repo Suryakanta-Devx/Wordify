@@ -1,0 +1,38 @@
+{
+  "peak": {
+    "word": "peak",
+    "phonetic": "/piːk/",
+    "part_of_speech": ["noun", "verb", "adjective"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The pointed top of a mountain.",
+          "example": "The snow-capped peak."
+        },
+        {
+          "definition": "The point of highest activity, quality, or achievement.",
+          "example": "He is at the peak of his career."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To reach a highest point, either of a specified value or at a specified time.",
+          "example": "Traffic peaks at 5 PM."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "peak",
+      "past": "peaked",
+      "past_participle": "peaked",
+      "present_participle": "peaking",
+      "third_person": "peaks"
+    },
+    "synonyms": ["summit", "top", "zenith", "pinnacle"],
+    "antonyms": ["bottom", "nadir", "base"],
+    "usage_examples": [
+      "Peak season.",
+      "Peak performance."
+    ]
+  }
+}

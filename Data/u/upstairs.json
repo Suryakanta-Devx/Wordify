@@ -1,0 +1,26 @@
+{
+  "upstairs": {
+    "word": "upstairs",
+    "phonetic": "/ʌpˈstɛərz/",
+    "part_of_speech": ["adverb", "adjective", "noun"],
+    "meanings": {
+      "adverb": [
+        {
+          "definition": "To or on a higher floor of a building.",
+          "example": "She went upstairs to bed."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "upstairs",
+      "comparative": "n/a",
+      "superlative": "n/a"
+    },
+    "synonyms": ["overhead", "above"],
+    "antonyms": ["downstairs"],
+    "usage_examples": [
+      "The upstairs bedroom.",
+      "He lives upstairs."
+    ]
+  }
+}

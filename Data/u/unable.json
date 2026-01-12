@@ -1,0 +1,26 @@
+{
+  "unable": {
+    "word": "unable",
+    "phonetic": "/ʌnˈeɪbl/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Lacking the skill, means, or opportunity to do something.",
+          "example": "He was unable to walk."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "unable",
+      "comparative": "more unable",
+      "superlative": "most unable"
+    },
+    "synonyms": ["incapable", "powerless", "helpless", "impotent"],
+    "antonyms": ["able", "capable"],
+    "usage_examples": [
+      "She is unable to attend the meeting.",
+      "Unable to connect to the server."
+    ]
+  }
+}

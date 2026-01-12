@@ -1,0 +1,34 @@
+{
+  "utter": {
+    "word": "utter",
+    "phonetic": "/ˈʌtər/",
+    "part_of_speech": ["adjective", "verb"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Complete; absolute.",
+          "example": "Utter chaos."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To make (a sound) with one's voice.",
+          "example": "She didn't utter a word."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "utter",
+      "past": "uttered",
+      "past_participle": "uttered",
+      "present_participle": "uttering",
+      "third_person": "utters"
+    },
+    "synonyms": ["complete", "total", "say", "speak"],
+    "antonyms": ["partial", "remain silent"],
+    "usage_examples": [
+      "Utter nonsense.",
+      "He uttered a groan."
+    ]
+  }
+}

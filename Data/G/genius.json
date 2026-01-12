@@ -1,0 +1,25 @@
+{
+  "genius": {
+    "word": "genius",
+    "phonetic": "/ˈdʒiːniəs/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Exceptional intellectual or creative power or other natural ability.",
+          "example": "Einstein was a mathematical genius."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "genius",
+      "plural": "geniuses"
+    },
+    "synonyms": ["brilliance", "mastermind", "prodigy", "intellect"],
+    "antonyms": ["idiot", "dunce", "stupidity"],
+    "usage_examples": [
+      "It was a stroke of genius.",
+      "She is a genius at solving puzzles."
+    ]
+  }
+}

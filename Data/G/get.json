@@ -1,0 +1,32 @@
+{
+  "get": {
+    "word": "get",
+    "phonetic": "/ɡɛt/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To come to have or hold (something); receive.",
+          "example": "I got a letter from him today."
+        },
+        {
+          "definition": "To succeed in attaining, achieving, or experiencing; obtain.",
+          "example": "He needs to get some sleep."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "get",
+      "past": "got",
+      "past_participle": "got / gotten",
+      "present_participle": "getting",
+      "third_person": "gets"
+    },
+    "synonyms": ["acquire", "obtain", "receive", "fetch"],
+    "antonyms": ["give", "lose", "send"],
+    "usage_examples": [
+      "Did you get the message?",
+      "It's getting late."
+    ]
+  }
+}

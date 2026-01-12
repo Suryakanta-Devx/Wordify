@@ -1,0 +1,30 @@
+{
+  "gentle": {
+    "word": "gentle",
+    "phonetic": "/ˈdʒɛntl/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Mild in temperament or behavior; kind or tender.",
+          "example": "Be gentle with the baby."
+        },
+        {
+          "definition": "Moderate in action, effect, or degree; not harsh or severe.",
+          "example": "A gentle breeze was blowing."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "gentle",
+      "comparative": "gentler",
+      "superlative": "gentlest"
+    },
+    "synonyms": ["kind", "tender", "mild", "soft"],
+    "antonyms": ["rough", "harsh", "violent"],
+    "usage_examples": [
+      "He has a gentle voice.",
+      "Take a gentle walk."
+    ]
+  }
+}

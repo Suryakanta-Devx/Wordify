@@ -1,0 +1,34 @@
+{
+  "perfect": {
+    "word": "perfect",
+    "phonetic": "/ˈpɜːrfɪkt/",
+    "part_of_speech": ["adjective", "verb"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Having all the required or desirable elements, qualities, or characteristics; as good as it is possible to be.",
+          "example": "A perfect circle."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To make (something) completely free from faults or defects, or as close to such a condition as possible.",
+          "example": "He perfected his technique."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "perfect",
+      "past": "perfected",
+      "past_participle": "perfected",
+      "present_participle": "perfecting",
+      "third_person": "perfects"
+    },
+    "synonyms": ["flawless", "ideal", "impeccable", "complete"],
+    "antonyms": ["imperfect", "flawed", "faulty"],
+    "usage_examples": [
+      "Practice makes perfect.",
+      "Nobody is perfect."
+    ]
+  }
+}

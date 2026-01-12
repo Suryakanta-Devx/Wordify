@@ -1,0 +1,25 @@
+{
+  "girl": {
+    "word": "girl",
+    "phonetic": "/ɡɜːrl/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A female child or adolescent.",
+          "example": "The girl played in the park."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "girl",
+      "plural": "girls"
+    },
+    "synonyms": ["lass", "young woman", "miss"],
+    "antonyms": ["boy"],
+    "usage_examples": [
+      "She is a clever girl.",
+      "Girls and boys learn together."
+    ]
+  }
+}

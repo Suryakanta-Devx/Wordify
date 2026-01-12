@@ -1,0 +1,25 @@
+{
+  "galaxy": {
+    "word": "galaxy",
+    "phonetic": "/ˈɡæləksi/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A system of millions or billions of stars, together with gas and dust, held together by gravitational attraction.",
+          "example": "The Milky Way is our home galaxy."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "galaxy",
+      "plural": "galaxies"
+    },
+    "synonyms": ["star system", "cosmos", "universe"],
+    "antonyms": [],
+    "usage_examples": [
+      "Astronomers discovered a new galaxy.",
+      "A galaxy of stars attended the award ceremony."
+    ]
+  }
+}

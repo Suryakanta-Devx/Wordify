@@ -1,0 +1,26 @@
+{
+  "genuine": {
+    "word": "genuine",
+    "phonetic": "/ˈdʒɛnjuɪn/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Truly what something is said to be; authentic.",
+          "example": "This is a genuine diamond."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "genuine",
+      "comparative": "more genuine",
+      "superlative": "most genuine"
+    },
+    "synonyms": ["authentic", "real", "actual", "legitimate"],
+    "antonyms": ["fake", "counterfeit", "bogus"],
+    "usage_examples": [
+      "He has a genuine interest in history.",
+      "The document is not genuine."
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "unfold": {
+    "word": "unfold",
+    "phonetic": "/ʌnˈfoʊld/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To open or spread out from a folded position.",
+          "example": "He unfolded the map."
+        },
+        {
+          "definition": "(Of events or information) to be revealed or disclosed.",
+          "example": "We watched the drama unfold."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "unfold",
+      "past": "unfolded",
+      "past_participle": "unfolded",
+      "present_participle": "unfolding",
+      "third_person": "unfolds"
+    },
+    "synonyms": ["open", "spread", "reveal", "develop"],
+    "antonyms": ["fold", "hide", "conceal"],
+    "usage_examples": [
+      "The story unfolds in London.",
+      "Unfold your arms."
+    ]
+  }
+}

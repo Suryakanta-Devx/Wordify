@@ -1,0 +1,34 @@
+{
+  "grade": {
+    "word": "grade",
+    "phonetic": "/ɡreɪd/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A particular level of rank, quality, proficiency, intensity, or value.",
+          "example": "This is high-grade steel."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To arrange in or allocate to grades; classify or sort.",
+          "example": "The eggs are graded by size."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "grade",
+      "past": "graded",
+      "past_participle": "graded",
+      "present_participle": "grading",
+      "third_person": "grades"
+    },
+    "synonyms": ["rank", "level", "category", "score"],
+    "antonyms": [],
+    "usage_examples": [
+      "She got a good grade on her test.",
+      "The road has a steep grade."
+    ]
+  }
+}

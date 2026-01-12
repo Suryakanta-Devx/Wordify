@@ -1,0 +1,32 @@
+{
+  "understand": {
+    "word": "understand",
+    "phonetic": "/ˌʌndərˈstænd/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To perceive the intended meaning of words, a language, or a speaker.",
+          "example": "I don't understand French."
+        },
+        {
+          "definition": "To interpret or view (something) in a particular way.",
+          "example": "I understand that you wish to leave."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "understand",
+      "past": "understood",
+      "past_participle": "understood",
+      "present_participle": "understanding",
+      "third_person": "understands"
+    },
+    "synonyms": ["comprehend", "grasp", "realize", "know"],
+    "antonyms": ["misunderstand", "confuse"],
+    "usage_examples": [
+      "Do you understand me?",
+      "She understands the risks."
+    ]
+  }
+}

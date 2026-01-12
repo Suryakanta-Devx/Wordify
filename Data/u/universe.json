@@ -1,0 +1,25 @@
+{
+  "universe": {
+    "word": "universe",
+    "phonetic": "/ˈjuːnɪvɜːrs/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "All existing matter and space considered as a whole; the cosmos.",
+          "example": "The origin of the universe."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "universe",
+      "plural": "universes"
+    },
+    "synonyms": ["cosmos", "world", "creation", "space"],
+    "antonyms": [],
+    "usage_examples": [
+      "Parallel universes.",
+      "Miss Universe."
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "page": {
+    "word": "page",
+    "phonetic": "/peɪdʒ/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "One side of a sheet of paper in a book, magazine, newspaper, or other collection of bound sheets.",
+          "example": "Turn to page 50."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "page",
+      "plural": "pages"
+    },
+    "synonyms": ["leaf", "sheet", "folio", "side"],
+    "antonyms": [],
+    "usage_examples": [
+      "The book has 300 pages.",
+      "She tore a page from her notebook."
+    ]
+  }
+}

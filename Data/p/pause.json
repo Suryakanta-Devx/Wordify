@@ -1,0 +1,34 @@
+{
+  "pause": {
+    "word": "pause",
+    "phonetic": "/pɔːz/",
+    "part_of_speech": ["verb", "noun"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To interrupt action or speech briefly.",
+          "example": "She paused to catch her breath."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "A temporary stop in action or speech.",
+          "example": "There was a long pause."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "pause",
+      "past": "paused",
+      "past_participle": "paused",
+      "present_participle": "pausing",
+      "third_person": "pauses"
+    },
+    "synonyms": ["stop", "break", "halt", "hesitate"],
+    "antonyms": ["continue", "proceed"],
+    "usage_examples": [
+      "Press the pause button.",
+      "Pause for thought."
+    ]
+  }
+}

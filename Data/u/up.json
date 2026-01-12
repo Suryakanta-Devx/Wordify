@@ -1,0 +1,32 @@
+{
+  "up": {
+    "word": "up",
+    "phonetic": "/ʌp/",
+    "part_of_speech": ["adverb", "preposition", "adjective"],
+    "meanings": {
+      "adverb": [
+        {
+          "definition": "Toward the sky or a higher position.",
+          "example": "He looked up."
+        }
+      ],
+      "preposition": [
+        {
+          "definition": "From a lower to a higher point on something.",
+          "example": "She climbed up the ladder."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "up",
+      "comparative": "upper",
+      "superlative": "uppermost"
+    },
+    "synonyms": ["above", "high", "upward"],
+    "antonyms": ["down", "low"],
+    "usage_examples": [
+      "Time is up.",
+      "What is up?"
+    ]
+  }
+}

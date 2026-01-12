@@ -1,0 +1,29 @@
+{
+  "union": {
+    "word": "union",
+    "phonetic": "/ˈjuːnjən/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The action of joining or being joined.",
+          "example": "A currency union."
+        },
+        {
+          "definition": "A club, society, or association formed by people with a common interest or purpose.",
+          "example": "Trade union."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "union",
+      "plural": "unions"
+    },
+    "synonyms": ["association", "alliance", "merger", "marriage"],
+    "antonyms": ["separation", "division"],
+    "usage_examples": [
+      "The European Union.",
+      "Union is strength."
+    ]
+  }
+}

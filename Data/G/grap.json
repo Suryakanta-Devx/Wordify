@@ -1,0 +1,34 @@
+{
+  "grab": {
+    "word": "grab",
+    "phonetic": "/ɡræb/",
+    "part_of_speech": ["verb", "noun"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To grasp or seize suddenly and roughly.",
+          "example": "He grabbed his bag and ran."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "A quick, sudden attempt to seize or catch something.",
+          "example": "She made a grab for the ball."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "grab",
+      "past": "grabbed",
+      "past_participle": "grabbed",
+      "present_participle": "grabbing",
+      "third_person": "grabs"
+    },
+    "synonyms": ["seize", "snatch", "grasp", "capture"],
+    "antonyms": ["release", "let go"],
+    "usage_examples": [
+      "Let's grab a bite to eat.",
+      "How does that grab you?"
+    ]
+  }
+}

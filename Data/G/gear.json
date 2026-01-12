@@ -1,0 +1,32 @@
+{
+  "gear": {
+    "word": "gear",
+    "phonetic": "/ɡɪər/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Equipment that is used for a particular purpose.",
+          "example": "We packed our camping gear."
+        },
+        {
+          "definition": "A toothed wheel that works with others to alter the relation between the speed of a driving mechanism and the speed of the driven parts.",
+          "example": "Shift into a lower gear when driving uphill."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "gear",
+      "past": "geared",
+      "past_participle": "geared",
+      "present_participle": "gearing",
+      "third_person": "gears"
+    },
+    "synonyms": ["equipment", "apparatus", "cog", "mechanism"],
+    "antonyms": [],
+    "usage_examples": [
+      "The program is geared towards teenagers.",
+      "He put the car in reverse gear."
+    ]
+  }
+}

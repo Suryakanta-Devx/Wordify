@@ -1,0 +1,26 @@
+{
+  "useful": {
+    "word": "useful",
+    "phonetic": "/ˈjuːsfəl/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Able to be used for a practical purpose or in several ways.",
+          "example": "This tool is very useful."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "useful",
+      "comparative": "more useful",
+      "superlative": "most useful"
+    },
+    "synonyms": ["helpful", "practical", "beneficial", "handy"],
+    "antonyms": ["useless", "worthless"],
+    "usage_examples": [
+      "Useful information.",
+      "Come in useful."
+    ]
+  }
+}

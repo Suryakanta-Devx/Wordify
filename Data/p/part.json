@@ -1,0 +1,34 @@
+{
+  "part": {
+    "word": "part",
+    "phonetic": "/pɑːrt/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "An amount or section which, combined with others, makes up the whole of something.",
+          "example": "This is part of the problem."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To separate or divide.",
+          "example": "The crowd parted to let them through."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "part",
+      "past": "parted",
+      "past_participle": "parted",
+      "present_participle": "parting",
+      "third_person": "parts"
+    },
+    "synonyms": ["piece", "portion", "section", "separate"],
+    "antonyms": ["whole", "all", "join", "unite"],
+    "usage_examples": [
+      "Take part in the event.",
+      "Part of the team."
+    ]
+  }
+}

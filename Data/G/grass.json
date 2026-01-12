@@ -1,0 +1,25 @@
+{
+  "grass": {
+    "word": "grass",
+    "phonetic": "/ɡræs/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Vegetation consisting of typically short plants with long, narrow leaves, growing wild or cultivated on lawns and pasture.",
+          "example": "The children played on the grass."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "grass",
+      "plural": "grasses"
+    },
+    "synonyms": ["lawn", "turf", "sod", "pasture"],
+    "antonyms": [],
+    "usage_examples": [
+      "Don't walk on the grass.",
+      "The cow is eating grass."
+    ]
+  }
+}

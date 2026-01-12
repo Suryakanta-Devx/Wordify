@@ -1,0 +1,34 @@
+{
+  "park": {
+    "word": "park",
+    "phonetic": "/pɑːrk/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A large public green area in a town, used for recreation.",
+          "example": "Let's go for a walk in the park."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To bring a vehicle to a halt and leave it temporarily.",
+          "example": "You can't park here."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "park",
+      "past": "parked",
+      "past_participle": "parked",
+      "present_participle": "parking",
+      "third_person": "parks"
+    },
+    "synonyms": ["garden", "green", "station", "position"],
+    "antonyms": [],
+    "usage_examples": [
+      "National Park.",
+      "Amusement park."
+    ]
+  }
+}

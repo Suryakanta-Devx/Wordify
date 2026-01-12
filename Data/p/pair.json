@@ -1,0 +1,34 @@
+{
+  "pair": {
+    "word": "pair",
+    "phonetic": "/pɛər/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A set of two things used together or regarded as a unit.",
+          "example": "A pair of shoes."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To join or connect to form a pair.",
+          "example": "Pair the socks together."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "pair",
+      "past": "paired",
+      "past_participle": "paired",
+      "present_participle": "pairing",
+      "third_person": "pairs"
+    },
+    "synonyms": ["couple", "duo", "twosome", "match"],
+    "antonyms": [],
+    "usage_examples": [
+      "They make a great pair.",
+      "I need a new pair of glasses."
+    ]
+  }
+}

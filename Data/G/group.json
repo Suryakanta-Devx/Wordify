@@ -1,0 +1,34 @@
+{
+  "group": {
+    "word": "group",
+    "phonetic": "/ɡruːp/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A number of people or things that are located together or considered as a unit.",
+          "example": "A group of tourists visited the museum."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To put into categories; classify.",
+          "example": "The students were grouped by age."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "group",
+      "past": "grouped",
+      "past_participle": "grouped",
+      "present_participle": "grouping",
+      "third_person": "groups"
+    },
+    "synonyms": ["cluster", "collection", "batch", "team"],
+    "antonyms": ["individual"],
+    "usage_examples": [
+      "Work in a group to solve the problem.",
+      "He is part of a musical group."
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "uncomfortable": {
+    "word": "uncomfortable",
+    "phonetic": "/ʌnˈkʌmftəbl/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Causing or feeling slight pain or physical discomfort.",
+          "example": "This chair is very uncomfortable."
+        },
+        {
+          "definition": "Feeling unease or awkwardness.",
+          "example": "An uncomfortable silence."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "uncomfortable",
+      "comparative": "more uncomfortable",
+      "superlative": "most uncomfortable"
+    },
+    "synonyms": ["painful", "awkward", "uneasy", "tight"],
+    "antonyms": ["comfortable", "relaxed", "easy"],
+    "usage_examples": [
+      "The truth made him uncomfortable.",
+      "Uncomfortable shoes."
+    ]
+  }
+}

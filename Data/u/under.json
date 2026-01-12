@@ -1,0 +1,32 @@
+{
+  "under": {
+    "word": "under",
+    "phonetic": "/ˈʌndər/",
+    "part_of_speech": ["preposition", "adverb"],
+    "meanings": {
+      "preposition": [
+        {
+          "definition": "Extending or directly below.",
+          "example": "The ball rolled under the table."
+        }
+      ],
+      "adverb": [
+        {
+          "definition": "In or to a lower position.",
+          "example": "The ship went under."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "under",
+      "comparative": "n/a",
+      "superlative": "n/a"
+    },
+    "synonyms": ["below", "beneath", "underneath", "lower"],
+    "antonyms": ["over", "above"],
+    "usage_examples": [
+      "Under pressure.",
+      "Under construction."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "global": {
+    "word": "global",
+    "phonetic": "/ˈɡloʊbəl/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Relating to the whole world; worldwide.",
+          "example": "The economy is affected by global markets."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "global",
+      "comparative": "more global",
+      "superlative": "most global"
+    },
+    "synonyms": ["worldwide", "international", "universal"],
+    "antonyms": ["local", "regional", "domestic"],
+    "usage_examples": [
+      "Pollution is a global problem.",
+      "They are a global company."
+    ]
+  }
+}

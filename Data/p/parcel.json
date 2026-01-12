@@ -1,0 +1,34 @@
+{
+  "parcel": {
+    "word": "parcel",
+    "phonetic": "/ˈpɑːrsəl/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A thing or collection of things wrapped in paper in order to be carried or sent by mail.",
+          "example": "The postman delivered a parcel."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To wrap or package something.",
+          "example": "She parceled up the clothes."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "parcel",
+      "past": "parceled",
+      "past_participle": "parceled",
+      "present_participle": "parceling",
+      "third_person": "parcels"
+    },
+    "synonyms": ["package", "bundle", "packet", "box"],
+    "antonyms": [],
+    "usage_examples": [
+      "Part and parcel of the job.",
+      "Send the parcel by airmail."
+    ]
+  }
+}

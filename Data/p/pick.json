@@ -1,0 +1,38 @@
+{
+  "pick": {
+    "word": "pick",
+    "phonetic": "/pɪk/",
+    "part_of_speech": ["verb", "noun"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To choose someone or something from a number of alternatives.",
+          "example": "Pick a card, any card."
+        },
+        {
+          "definition": "To gather flowers or fruit.",
+          "example": "We picked apples."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "An act of selecting something.",
+          "example": "Take your pick."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "pick",
+      "past": "picked",
+      "past_participle": "picked",
+      "present_participle": "picking",
+      "third_person": "picks"
+    },
+    "synonyms": ["choose", "select", "gather", "harvest"],
+    "antonyms": ["reject", "refuse"],
+    "usage_examples": [
+      "Pick up the phone.",
+      "Pick a fight."
+    ]
+  }
+}

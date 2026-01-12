@@ -1,0 +1,29 @@
+{
+  "unit": {
+    "word": "unit",
+    "phonetic": "/ˈjuːnɪt/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "An individual thing or person regarded as single and complete but which can also form an individual component of a larger or more complex whole.",
+          "example": "A housing unit."
+        },
+        {
+          "definition": "A quantity chosen as a standard in terms of which other quantities may be expressed.",
+          "example": "A unit of measurement."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "unit",
+      "plural": "units"
+    },
+    "synonyms": ["component", "element", "module", "measure"],
+    "antonyms": [],
+    "usage_examples": [
+      "Intensive care unit.",
+      "Family is the basic unit of society."
+    ]
+  }
+}

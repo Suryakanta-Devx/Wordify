@@ -1,0 +1,34 @@
+{
+  "pay": {
+    "word": "pay",
+    "phonetic": "/peɪ/",
+    "part_of_speech": ["verb", "noun"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To give (someone) money that is due for work done, goods received, or a debt incurred.",
+          "example": "Please pay the cashier."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "Money paid for work or services.",
+          "example": "The pay is good."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "pay",
+      "past": "paid",
+      "past_participle": "paid",
+      "present_participle": "paying",
+      "third_person": "pays"
+    },
+    "synonyms": ["spend", "compensate", "reward", "salary"],
+    "antonyms": ["earn", "receive"],
+    "usage_examples": [
+      "Pay attention.",
+      "It pays to be honest."
+    ]
+  }
+}

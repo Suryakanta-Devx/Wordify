@@ -1,0 +1,42 @@
+{
+  "picture": {
+    "word": "picture",
+    "phonetic": "/ˈpɪktʃər/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A painting or drawing.",
+          "example": "She drew a picture."
+        },
+        {
+          "definition": "A photograph.",
+          "example": "Look at this picture."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To represent in a photograph or picture.",
+          "example": "He is pictured here with his family."
+        },
+        {
+          "definition": "To imagine.",
+          "example": "I can picture it now."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "picture",
+      "past": "pictured",
+      "past_participle": "pictured",
+      "present_participle": "picturing",
+      "third_person": "pictures"
+    },
+    "synonyms": ["image", "photo", "drawing", "imagine"],
+    "antonyms": [],
+    "usage_examples": [
+      "Motion picture.",
+      "The big picture."
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "pack": {
+    "word": "pack",
+    "phonetic": "/pæk/",
+    "part_of_speech": ["verb", "noun"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To fill a suitcase or bag with clothes and other items for travel.",
+          "example": "I need to pack for my trip."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "A group of wild animals, especially wolves, living and hunting together.",
+          "example": "A pack of wolves."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "pack",
+      "past": "packed",
+      "past_participle": "packed",
+      "present_participle": "packing",
+      "third_person": "packs"
+    },
+    "synonyms": ["bundle", "load", "group", "package"],
+    "antonyms": ["unpack", "empty"],
+    "usage_examples": [
+      "He packed his lunch.",
+      "She bought a pack of cards."
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "gain": {
+    "word": "gain",
+    "phonetic": "/ɡeɪn/",
+    "part_of_speech": ["verb", "noun"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To obtain or secure something desired, favorable, or profitable.",
+          "example": "She gained a lot of experience from that job."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "An increase of wealth or resources.",
+          "example": "His loss was my gain."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "gain",
+      "past": "gained",
+      "past_participle": "gained",
+      "present_participle": "gaining",
+      "third_person": "gains"
+    },
+    "synonyms": ["acquire", "obtain", "achieve", "profit"],
+    "antonyms": ["lose", "loss", "forfeit"],
+    "usage_examples": [
+      "The car gained speed as it went down the hill.",
+      "No pain, no gain."
+    ]
+  }
+}

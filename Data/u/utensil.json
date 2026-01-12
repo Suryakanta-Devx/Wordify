@@ -1,0 +1,25 @@
+{
+  "utensil": {
+    "word": "utensil",
+    "phonetic": "/juːˈtɛnsəl/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A tool, container, or other article, especially for household use.",
+          "example": "Kitchen utensils."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "utensil",
+      "plural": "utensils"
+    },
+    "synonyms": ["tool", "implement", "instrument", "device"],
+    "antonyms": [],
+    "usage_examples": [
+      "Cooking utensils like spoons and forks.",
+      "Wash the utensils."
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "give": {
+    "word": "give",
+    "phonetic": "/ɡɪv/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To freely transfer the possession of something to someone else.",
+          "example": "I will give you a call later."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "give",
+      "past": "gave",
+      "past_participle": "given",
+      "present_participle": "giving",
+      "third_person": "gives"
+    },
+    "synonyms": ["donate", "offer", "present", "grant"],
+    "antonyms": ["take", "receive", "keep"],
+    "usage_examples": [
+      "Don't give up.",
+      "She gave him a nice gift."
+    ]
+  }
+}

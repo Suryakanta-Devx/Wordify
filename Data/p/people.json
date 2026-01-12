@@ -1,0 +1,29 @@
+{
+  "people": {
+    "word": "people",
+    "phonetic": "/ˈpiːpl/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Human beings in general or considered collectively.",
+          "example": "There were many people at the fair."
+        },
+        {
+          "definition": "The members of a particular nation, community, or ethnic group.",
+          "example": "The American people."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "person",
+      "plural": "people"
+    },
+    "synonyms": ["humans", "persons", "public", "populace"],
+    "antonyms": [],
+    "usage_examples": [
+      "People say that time flies.",
+      "Power to the people."
+    ]
+  }
+}

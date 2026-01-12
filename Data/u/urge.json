@@ -1,0 +1,34 @@
+{
+  "urge": {
+    "word": "urge",
+    "phonetic": "/ɜːrdʒ/",
+    "part_of_speech": ["verb", "noun"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To try earnestly or persistently to persuade (someone) to do something.",
+          "example": "I urge you to reconsider."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "A strong desire or impulse.",
+          "example": "I had a sudden urge to laugh."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "urge",
+      "past": "urged",
+      "past_participle": "urged",
+      "present_participle": "urging",
+      "third_person": "urges"
+    },
+    "synonyms": ["encourage", "press", "impulse", "desire"],
+    "antonyms": ["discourage", "deter"],
+    "usage_examples": [
+      "He urged the horse forward.",
+      "Controlling his urges."
+    ]
+  }
+}

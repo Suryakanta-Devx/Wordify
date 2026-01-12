@@ -1,0 +1,31 @@
+{
+  "gold": {
+    "word": "gold",
+    "phonetic": "/ɡoʊld/",
+    "part_of_speech": ["noun", "adjective"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A yellow precious metal, the chemical element of atomic number 79.",
+          "example": "The ring is made of solid gold."
+        }
+      ],
+      "adjective": [
+        {
+          "definition": "Made of or colored like gold.",
+          "example": "She wore a gold dress to the party."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "gold",
+      "plural": "golds"
+    },
+    "synonyms": ["precious metal", "gilded", "golden"],
+    "antonyms": [],
+    "usage_examples": [
+      "He won a gold medal at the Olympics.",
+      "All that glitters is not gold."
+    ]
+  }
+}

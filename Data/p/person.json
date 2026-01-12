@@ -1,0 +1,25 @@
+{
+  "person": {
+    "word": "person",
+    "phonetic": "/ˈpɜːrsn/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A human being regarded as an individual.",
+          "example": "He is a nice person."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "person",
+      "plural": "people / persons"
+    },
+    "synonyms": ["individual", "human", "being", "soul"],
+    "antonyms": [],
+    "usage_examples": [
+      "In person.",
+      "Person of interest."
+    ]
+  }
+}

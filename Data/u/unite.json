@@ -1,0 +1,28 @@
+{
+  "unite": {
+    "word": "unite",
+    "phonetic": "/juˈnaɪt/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To come or bring together for a common purpose or action.",
+          "example": "We must unite against the enemy."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "unite",
+      "past": "united",
+      "past_participle": "united",
+      "present_participle": "uniting",
+      "third_person": "unites"
+    },
+    "synonyms": ["join", "combine", "merge", "link"],
+    "antonyms": ["divide", "split", "separate"],
+    "usage_examples": [
+      "Workers of the world, unite!",
+      "The nation was united in grief."
+    ]
+  }
+}

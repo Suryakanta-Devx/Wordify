@@ -1,0 +1,31 @@
+{
+  "uniform": {
+    "word": "uniform",
+    "phonetic": "/ˈjuːnɪfɔːrm/",
+    "part_of_speech": ["noun", "adjective"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The distinctive clothing worn by members of the same organization or body.",
+          "example": "School uniform."
+        }
+      ],
+      "adjective": [
+        {
+          "definition": "Remaining the same in all cases and at all times.",
+          "example": "A uniform temperature."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "uniform",
+      "plural": "uniforms"
+    },
+    "synonyms": ["attire", "costume", "consistent", "identical"],
+    "antonyms": ["varied", "different", "mufti"],
+    "usage_examples": [
+      "Police uniform.",
+      "Keep the slices of uniform thickness."
+    ]
+  }
+}

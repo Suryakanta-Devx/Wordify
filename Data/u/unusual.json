@@ -1,0 +1,26 @@
+{
+  "unusual": {
+    "word": "unusual",
+    "phonetic": "/ʌnˈjuːʒuəl/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Not habitually or commonly occurring or done.",
+          "example": "It is unusual for him to be late."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "unusual",
+      "comparative": "more unusual",
+      "superlative": "most unusual"
+    },
+    "synonyms": ["uncommon", "rare", "abnormal", "strange"],
+    "antonyms": ["usual", "common", "normal"],
+    "usage_examples": [
+      "An unusual request.",
+      "The weather is unusual for this time of year."
+    ]
+  }
+}

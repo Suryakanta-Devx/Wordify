@@ -1,0 +1,38 @@
+{
+  "gray": {
+    "word": "gray",
+    "phonetic": "/ɡreɪ/",
+    "part_of_speech": ["adjective", "noun", "verb"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Of a color intermediate between black and white, as of ashes or lead.",
+          "example": "The sky turned gray before the storm."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "The color gray.",
+          "example": "Gray is a neutral color."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To become gray with age.",
+          "example": "His hair started to gray in his thirties."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "gray",
+      "comparative": "grayer",
+      "superlative": "grayest"
+    },
+    "synonyms": ["grey", "silvery", "dull", "ashen"],
+    "antonyms": ["colorful", "bright"],
+    "usage_examples": [
+      "It was a cold, gray day.",
+      "He wore a gray suit."
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "until": {
+    "word": "until",
+    "phonetic": "/ənˈtɪl/",
+    "part_of_speech": ["preposition", "conjunction"],
+    "meanings": {
+      "preposition": [
+        {
+          "definition": "Up to the point in time or the event mentioned.",
+          "example": "Wait until tomorrow."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "n/a",
+      "plural": "n/a"
+    },
+    "synonyms": ["till", "up to", "pending"],
+    "antonyms": [],
+    "usage_examples": [
+      "Until we meet again.",
+      "Guilty until proven innocent."
+    ]
+  }
+}

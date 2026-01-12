@@ -1,0 +1,34 @@
+{
+  "update": {
+    "word": "update",
+    "phonetic": "/ʌpˈdeɪt/",
+    "part_of_speech": ["verb", "noun"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To make something more modern or up to date.",
+          "example": "I need to update my computer."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "An act of bringing something up to date, or a report giving the latest information.",
+          "example": "Here is a news update."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "update",
+      "past": "updated",
+      "past_participle": "updated",
+      "present_participle": "updating",
+      "third_person": "updates"
+    },
+    "synonyms": ["modernize", "refresh", "upgrade", "renew"],
+    "antonyms": ["outdate"],
+    "usage_examples": [
+      "Update your profile.",
+      "Software update available."
+    ]
+  }
+}

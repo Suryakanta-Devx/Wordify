@@ -1,0 +1,34 @@
+{
+  "glue": {
+    "word": "glue",
+    "phonetic": "/ɡluː/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "An adhesive substance used for sticking objects or materials together.",
+          "example": "Use glue to fix the broken vase."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To fasten or join with or as if with glue.",
+          "example": "He glued the pieces together."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "glue",
+      "past": "glued",
+      "past_participle": "glued",
+      "present_participle": "gluing",
+      "third_person": "glues"
+    },
+    "synonyms": ["adhesive", "paste", "stick", "cement"],
+    "antonyms": [],
+    "usage_examples": [
+      "Her eyes were glued to the screen.",
+      "Super glue dries quickly."
+    ]
+  }
+}

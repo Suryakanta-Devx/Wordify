@@ -1,0 +1,38 @@
+{
+  "piece": {
+    "word": "piece",
+    "phonetic": "/piːs/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A portion of an object or of material, produced by cutting, tearing, or breaking the whole.",
+          "example": "A piece of cake."
+        },
+        {
+          "definition": "A musical or written composition.",
+          "example": "A beautiful piece of music."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To assemble something from parts.",
+          "example": "Piece it together."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "piece",
+      "past": "pieced",
+      "past_participle": "pieced",
+      "present_participle": "piecing",
+      "third_person": "pieces"
+    },
+    "synonyms": ["part", "segment", "slice", "bit"],
+    "antonyms": ["whole"],
+    "usage_examples": [
+      "Piece of mind.",
+      "Pieces of eight."
+    ]
+  }
+}

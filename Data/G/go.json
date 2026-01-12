@@ -1,0 +1,28 @@
+{
+  "go": {
+    "word": "go",
+    "phonetic": "/ɡoʊ/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To move from one place to another; travel.",
+          "example": "We should go home now."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "go",
+      "past": "went",
+      "past_participle": "gone",
+      "present_participle": "going",
+      "third_person": "goes"
+    },
+    "synonyms": ["move", "travel", "proceed", "depart"],
+    "antonyms": ["stay", "remain", "stop"],
+    "usage_examples": [
+      "Let's go for a walk.",
+      "Where did he go?"
+    ]
+  }
+}

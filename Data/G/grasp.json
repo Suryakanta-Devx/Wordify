@@ -1,0 +1,38 @@
+{
+  "grasp": {
+    "word": "grasp",
+    "phonetic": "/ɡræsp/",
+    "part_of_speech": ["verb", "noun"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To seize and hold firmly.",
+          "example": "He grasped the rope tightly."
+        },
+        {
+          "definition": "To understand fully.",
+          "example": "She failed to grasp the complexity of the problem."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "A firm hold or grip.",
+          "example": "The child slipped from her grasp."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "grasp",
+      "past": "grasped",
+      "past_participle": "grasped",
+      "present_participle": "grasping",
+      "third_person": "grasps"
+    },
+    "synonyms": ["grip", "clutch", "hold", "comprehend"],
+    "antonyms": ["release", "misunderstand"],
+    "usage_examples": [
+      "Success is within your grasp.",
+      "He has a good grasp of the subject."
+    ]
+  }
+}

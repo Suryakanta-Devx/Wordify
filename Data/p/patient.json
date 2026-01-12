@@ -1,0 +1,32 @@
+{
+  "patient": {
+    "word": "patient",
+    "phonetic": "/ˈpeɪʃnt/",
+    "part_of_speech": ["adjective", "noun"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Able to accept or tolerate delays, problems, or suffering without becoming annoyed or anxious.",
+          "example": "Be patient, it takes time."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "A person receiving or registered to receive medical treatment.",
+          "example": "The doctor examined the patient."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "patient",
+      "comparative": "more patient",
+      "superlative": "most patient"
+    },
+    "synonyms": ["calm", "tolerant", "sick person", "case"],
+    "antonyms": ["impatient", "doctor"],
+    "usage_examples": [
+      "She is very patient with children.",
+      "Hospital patients."
+    ]
+  }
+}

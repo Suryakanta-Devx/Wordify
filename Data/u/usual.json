@@ -1,0 +1,26 @@
+{
+  "usual": {
+    "word": "usual",
+    "phonetic": "/ˈjuːʒuəl/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Habitually or typically occurring or done; customary.",
+          "example": "He sat in his usual chair."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "usual",
+      "comparative": "more usual",
+      "superlative": "most usual"
+    },
+    "synonyms": ["normal", "typical", "standard", "regular"],
+    "antonyms": ["unusual", "strange", "abnormal"],
+    "usage_examples": [
+      "Business as usual.",
+      "I'll have the usual."
+    ]
+  }
+}

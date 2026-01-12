@@ -1,0 +1,32 @@
+{
+  "govern": {
+    "word": "govern",
+    "phonetic": "/ˈɡʌvərn/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To conduct the policy, actions, and affairs of a state, organization, or people.",
+          "example": "The party has governed the country for ten years."
+        },
+        {
+          "definition": "To control, influence, or regulate.",
+          "example": "Prices are governed by market demand."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "govern",
+      "past": "governed",
+      "past_participle": "governed",
+      "present_participle": "governing",
+      "third_person": "governs"
+    },
+    "synonyms": ["rule", "lead", "control", "regulate"],
+    "antonyms": ["obey", "submit"],
+    "usage_examples": [
+      "Laws govern our society.",
+      "She governs with a firm hand."
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "generous": {
+    "word": "generous",
+    "phonetic": "/ˈdʒɛnərəs/",
+    "part_of_speech": ["adjective"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Showing a readiness to give more of something, as money or time, than is strictly necessary or expected.",
+          "example": "He was generous with his donations."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "generous",
+      "comparative": "more generous",
+      "superlative": "most generous"
+    },
+    "synonyms": ["liberal", "lavish", "bountiful", "kind"],
+    "antonyms": ["stingy", "selfish", "mean"],
+    "usage_examples": [
+      "A generous portion of food.",
+      "She has a generous spirit."
+    ]
+  }
+}

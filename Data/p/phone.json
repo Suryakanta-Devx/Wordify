@@ -1,0 +1,34 @@
+{
+  "phone": {
+    "word": "phone",
+    "phonetic": "/foʊn/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A telephone.",
+          "example": "Answer the phone."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To call someone on the telephone.",
+          "example": "I will phone you later."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "phone",
+      "past": "phoned",
+      "past_participle": "phoned",
+      "present_participle": "phoning",
+      "third_person": "phones"
+    },
+    "synonyms": ["telephone", "call", "mobile", "cell"],
+    "antonyms": [],
+    "usage_examples": [
+      "Mobile phone.",
+      "Phone number."
+    ]
+  }
+}

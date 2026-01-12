@@ -1,0 +1,32 @@
+{
+  "grand": {
+    "word": "grand",
+    "phonetic": "/ɡrænd/",
+    "part_of_speech": ["adjective", "noun"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Magnificent and imposing in appearance, size, or style.",
+          "example": "The hotel has a grand entrance."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "(Informal) A thousand dollars or pounds.",
+          "example": "The car cost ten grand."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "grand",
+      "comparative": "grander",
+      "superlative": "grandest"
+    },
+    "synonyms": ["magnificent", "impressive", "majestic", "splendid"],
+    "antonyms": ["humble", "modest", "insignificant"],
+    "usage_examples": [
+      "They have grand plans for the future.",
+      "It was a grand occasion."
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "palace": {
+    "word": "palace",
+    "phonetic": "/ˈpælɪs/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The official residence of a sovereign, archbishop, bishop, or other exalted person.",
+          "example": "The queen lives in the palace."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "palace",
+      "plural": "palaces"
+    },
+    "synonyms": ["castle", "mansion", "residence", "chateau"],
+    "antonyms": ["shack", "hovel"],
+    "usage_examples": [
+      "Buckingham Palace is in London.",
+      "The hotel looked like a palace."
+    ]
+  }
+}

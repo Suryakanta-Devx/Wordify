@@ -1,0 +1,34 @@
+{
+  "upgrade": {
+    "word": "upgrade",
+    "phonetic": "/ʌpˈɡreɪd/",
+    "part_of_speech": ["verb", "noun"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To raise (something) to a higher standard.",
+          "example": "We upgraded to a better hotel room."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "An act of upgrading something.",
+          "example": "The system needs an upgrade."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "upgrade",
+      "past": "upgraded",
+      "past_participle": "upgraded",
+      "present_participle": "upgrading",
+      "third_person": "upgrades"
+    },
+    "synonyms": ["improve", "enhance", "promote", "boost"],
+    "antonyms": ["downgrade", "degrade"],
+    "usage_examples": [
+      "Upgrade your ticket.",
+      "First-class upgrade."
+    ]
+  }
+}

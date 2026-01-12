@@ -1,0 +1,29 @@
+{
+  "path": {
+    "word": "path",
+    "phonetic": "/pæθ/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A way or track laid down for walking or made by continual treading.",
+          "example": "Follow the path through the woods."
+        },
+        {
+          "definition": "A course of action or conduct.",
+          "example": "The path to success."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "path",
+      "plural": "paths"
+    },
+    "synonyms": ["track", "trail", "way", "route"],
+    "antonyms": [],
+    "usage_examples": [
+      "Bicycle path.",
+      "Don't cross my path."
+    ]
+  }
+}

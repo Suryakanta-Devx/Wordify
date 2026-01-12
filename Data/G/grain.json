@@ -1,0 +1,29 @@
+{
+  "grain": {
+    "word": "grain",
+    "phonetic": "/ɡreɪn/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Wheat or any other cultivated cereal crop used as food.",
+          "example": "Farmers harvest the grain in autumn."
+        },
+        {
+          "definition": "A single fruit or seed of a cereal.",
+          "example": "A grain of rice."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "grain",
+      "plural": "grains"
+    },
+    "synonyms": ["cereal", "kernel", "seed", "particle"],
+    "antonyms": [],
+    "usage_examples": [
+      "Take it with a grain of salt.",
+      "The wood has a fine grain."
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ultimate": {
+    "word": "ultimate",
+    "phonetic": "/ˈʌltɪmət/",
+    "part_of_speech": ["adjective", "noun"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Being or happening at the end of a process; final.",
+          "example": "Their ultimate goal is peace."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "The best achievable or imaginable of its kind.",
+          "example": "This car is the ultimate in luxury."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "ultimate",
+      "comparative": "n/a",
+      "superlative": "n/a"
+    },
+    "synonyms": ["final", "concluding", "supreme", "best"],
+    "antonyms": ["initial", "first", "worst"],
+    "usage_examples": [
+      "The ultimate decision lies with you.",
+      "The ultimate sacrifice."
+    ]
+  }
+}

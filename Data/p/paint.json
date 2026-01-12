@@ -1,0 +1,34 @@
+{
+  "paint": {
+    "word": "paint",
+    "phonetic": "/peɪnt/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A colored substance which is spread over a surface and dries to leave a thin decorative or protective coating.",
+          "example": "The paint is still wet."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To cover the surface of (something) with paint.",
+          "example": "They painted the room blue."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "paint",
+      "past": "painted",
+      "past_participle": "painted",
+      "present_participle": "painting",
+      "third_person": "paints"
+    },
+    "synonyms": ["color", "dye", "stain", "coat"],
+    "antonyms": ["strip"],
+    "usage_examples": [
+      "She loves to paint landscapes.",
+      "Buy a can of red paint."
+    ]
+  }
+}

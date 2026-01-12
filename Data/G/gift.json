@@ -1,0 +1,29 @@
+{
+  "gift": {
+    "word": "gift",
+    "phonetic": "/ɡɪft/",
+    "part_of_speech": ["noun"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A thing given willingly to someone without payment; a present.",
+          "example": "It was a birthday gift."
+        },
+        {
+          "definition": "A natural ability or talent.",
+          "example": "She has a gift for music."
+        }
+      ]
+    },
+    "forms": {
+      "singular": "gift",
+      "plural": "gifts"
+    },
+    "synonyms": ["present", "donation", "talent", "aptitude"],
+    "antonyms": [],
+    "usage_examples": [
+      "Don't look a gift horse in the mouth.",
+      "He is a gifted athlete."
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "past": {
+    "word": "past",
+    "phonetic": "/pæst/",
+    "part_of_speech": ["adjective", "noun", "preposition"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Gone by in time and no longer existing.",
+          "example": "In the past year."
+        }
+      ],
+      "noun": [
+        {
+          "definition": "The time or a period of time before the moment of speaking or writing.",
+          "example": "Forget the past."
+        }
+      ],
+      "preposition": [
+        {
+          "definition": "To or on the further side of.",
+          "example": "Walk past the library."
+        }
+      ]
+    },
+    "forms": {
+      "positive": "past",
+      "comparative": "n/a",
+      "superlative": "n/a"
+    },
+    "synonyms": ["previous", "former", "history", "bygone"],
+    "antonyms": ["future", "present"],
+    "usage_examples": [
+      "It is half past ten.",
+      "A thing of the past."
+    ]
+  }
+}

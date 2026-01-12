@@ -1,0 +1,32 @@
+{
+  "perform": {
+    "word": "perform",
+    "phonetic": "/pərˈfɔːrm/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To carry out, accomplish, or fulfill (an action, task, or function).",
+          "example": "The doctor performed the surgery."
+        },
+        {
+          "definition": "To present (a form of entertainment) to an audience.",
+          "example": "The band will perform tonight."
+        }
+      ]
+    },
+    "tense_forms": {
+      "base": "perform",
+      "past": "performed",
+      "past_participle": "performed",
+      "present_participle": "performing",
+      "third_person": "performs"
+    },
+    "synonyms": ["carry out", "execute", "act", "stage"],
+    "antonyms": ["neglect", "fail"],
+    "usage_examples": [
+      "Perform well under pressure.",
+      "She performed a miracle."
+    ]
+  }
+}
